@@ -1,7 +1,7 @@
 {
     "name": "Random Joke App",
     "short_name": "JokeApp",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ff9a9e",
     "theme_color": "#ff6f61",
