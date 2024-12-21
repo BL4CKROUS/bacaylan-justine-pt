@@ -1,9 +1,9 @@
 const cacheName = 'random-joke-app-v1';
 const assets = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/app.js',
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
 ];
 
 // Install the service worker
